@@ -3,8 +3,9 @@ import React from 'react'
 const Navbar = () => {
        return (
               <div>
-                     hello
-
+                     <div className="h1 py-3">
+                            <h1 className="font-[Font-1]  font-bold">STODISE.</h1>
+                     </div>
               </div>
        )
 }

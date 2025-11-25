@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@font-face {
+       font-family: Font-1;
+       src: url(./NON-Natural-Grotesk-Medium.ttf);
+}
